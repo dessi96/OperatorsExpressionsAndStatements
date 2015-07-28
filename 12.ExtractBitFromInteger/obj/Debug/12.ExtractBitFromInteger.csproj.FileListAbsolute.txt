@@ -1,0 +1,5 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

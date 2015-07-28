@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11.ExtractBit\bin\Debug\11.ExtractBit.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11.ExtractBit\bin\Debug\11.ExtractBit.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11.ExtractBit\bin\Debug\11.ExtractBit.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11.ExtractBit\obj\Debug\11.ExtractBit.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11.ExtractBit\obj\Debug\11.ExtractBit.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11.ExtractBit\obj\Debug\11.ExtractBit.pdb
